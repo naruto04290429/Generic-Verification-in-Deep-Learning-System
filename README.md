@@ -4,6 +4,5 @@ This is the final project of the course ENEE 759I. I want to see the different f
 > Language: TensorFlow  
 > Data: CIFAR-10  
 
-
-https://github.com/naruto04290429/TensorFlow-Tutorials
+https://github.com/Hvass-Labs/TensorFlow-Tutorials
 

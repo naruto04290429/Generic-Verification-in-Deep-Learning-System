@@ -1,4 +1,3 @@
 # Generic-Verification-in-Deep-Learning-System
-ENEE 759I Introduction to Cyber-Physical System
 
-This is the final project of the course ENEE 759I.
+This is the final project of the course ENEE 759I. I want to see the different factors which affect the results of the any trained deep neural netork. I begin to constrcut the basic convolutional neural network to run my test and show the rate which the factors (Angle, Shifting, and the illumination) affect the images.

@@ -11,6 +11,6 @@ cache.py, cifar10.py, dataset.py, download.py are all from reference.
 Main.ipynb is the main program for the project.
 TensorFlow Test.ipynb is the test program to verify the completeness of the environment.  
 
-![Network Model](C:\Users\Lenovo\Desktop\123.png)
+![Network Model](images\model.png)
 
 

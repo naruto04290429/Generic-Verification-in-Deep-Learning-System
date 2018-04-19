@@ -5,7 +5,7 @@ This is the final project of the course ENEE 759I. I want to see the different f
 > Data: CIFAR-10  
 > Reference: https://github.com/Hvass-Labs/TensorFlow-Tutorials 
 
-> Code Usage: 
+> Code Usage:  
 cache.py, cifar10.py, dataset.py, download.py are all from reference.  
 Main.ipynb is the main program for the project.
 TensorFlow Test.ipynb is the test program to verify the completeness of the environment. 
